@@ -28,3 +28,4 @@ How to do...
 
 -Under writePassword function create a new variable which equals getPasswordOptions. create an if statement that will return the written password.
 
+Link to the site: https://sireteo.github.io/Password-Generator-Assignment/
